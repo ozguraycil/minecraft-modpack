@@ -1,0 +1,19 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.4.10",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Custom Kitchen Sink Modpack",
+  "version": "0.1.0-alpha",
+  "author": "ozguraycil",
+  "description": "Minecraft 1.20.1 modpack with 300+ mods - Tech, Magic, Adventure, QoL",
+  "files": [],
+  "overrides": "overrides"
+}
